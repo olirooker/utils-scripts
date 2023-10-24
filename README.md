@@ -31,7 +31,7 @@ To run a script navigate to the file and run `sh file-name.sh`
 ### Create a Global Alias
 
 - Set up an alias in your shell's config file (eg, `~/.zshrc` for zsh)
-- Add an alias to the file `alias script-name="/path/to/script/script-name.sh"`
+- Add an alias to the file `alias script-name="sh /path/to/script/script-name.sh"`
 
 ## Authors
 
